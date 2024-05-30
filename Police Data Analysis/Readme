@@ -1,1 +1,33 @@
-Police Data Analysis
+# Police Data Analysis
+
+This project analyzes police data to study incidents, types of violations, and the demographics of the individuals involved.
+
+## Files
+- `Police_Data.csv`: Dataset containing police records.
+- `Police_Data.ipynb`: Jupyter Notebook with data analysis and visualizations.
+
+## Key Insights
+- Analysis of common types of violations.
+- Demographic analysis of individuals involved in police incidents.
+
+## Getting Started
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/kripanshsharma/Data-Analytics-Projects.git
+    ```
+2. Navigate to the Police Data Analysis directory:
+    ```sh
+    cd Data-Analytics-Projects/Police_Data_Analysis
+    ```
+3. Open the Jupyter Notebook:
+    ```sh
+    jupyter notebook Police_Data.ipynb
+    ```
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
+
+## Contact
+For any questions or inquiries, please contact me at:
+- Email: yuvrajsharma09876@gmail.com
+- LinkedIn: [Yuvraj Sharma](https://www.linkedin.com/in/yuvraj-sharma-92a83327a/)
