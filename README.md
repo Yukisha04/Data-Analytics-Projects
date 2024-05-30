@@ -75,6 +75,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or inquiries, please contact me at:
 - Email: yuvrajsharma09876@gmail.com
-- LinkedIn: [Kripansh Sharma](https://www.linkedin.com/in/yuvraj-sharma-92a83327a/)
+- LinkedIn: [Yuvraj Sharma](https://www.linkedin.com/in/yuvraj-sharma-92a83327a/)
 
 Happy Analyzing!
