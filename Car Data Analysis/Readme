@@ -1,1 +1,33 @@
-Car Data Analysis
+# Car Data Analysis
+
+This project involves analyzing car data to extract insights and visualize the relationships between various car features and their prices.
+
+## Files
+- `Car_Data.csv`: Dataset containing car features and prices.
+- `Car_Data.ipynb`: Jupyter Notebook with data analysis and visualizations.
+
+## Key Insights
+- Analysis of factors affecting car prices.
+- Visualization of car features distribution.
+
+## Getting Started
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/kripanshsharma/Data-Analytics-Projects.git
+    ```
+2. Navigate to the Car Data Analysis directory:
+    ```sh
+    cd Data-Analytics-Projects/Car_Data_Analysis
+    ```
+3. Open the Jupyter Notebook:
+    ```sh
+    jupyter notebook Car_Data.ipynb
+    ```
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
+
+## Contact
+For any questions or inquiries, please contact me at:
+- Email: yuvrajsharma09876@gmail.com
+- LinkedIn: [Yuvraj Sharma](https://www.linkedin.com/in/yuvraj-sharma-92a83327a/)
