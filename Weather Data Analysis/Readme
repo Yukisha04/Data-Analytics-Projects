@@ -1,1 +1,33 @@
-Weather Data Analysis
+# Weather Data Analysis
+
+This project focuses on analyzing weather data to understand patterns and trends in weather conditions.
+
+## Files
+- `Weather_Data.csv`: Dataset containing weather information.
+- `Weather_Data.ipynb`: Jupyter Notebook with data analysis and visualizations.
+
+## Key Insights
+- Identification of weather trends over time.
+- Correlation between different weather parameters.
+
+## Getting Started
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/kripanshsharma/Data-Analytics-Projects.git
+    ```
+2. Navigate to the Weather Data Analysis directory:
+    ```sh
+    cd Data-Analytics-Projects/Weather_Data_Analysis
+    ```
+3. Open the Jupyter Notebook:
+    ```sh
+    jupyter notebook Weather_Data.ipynb
+    ```
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
+
+## Contact
+For any questions or inquiries, please contact me at:
+- Email: yuvrajsharma09876@gmail.com
+- LinkedIn: [Yuvraj Sharma](https://www.linkedin.com/in/yuvraj-sharma-92a83327a/)
